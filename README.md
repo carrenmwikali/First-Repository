@@ -1,1 +1,1 @@
-# The Commits on this repository track my practice assignments on various Data Analysis in Python Concepts
+# Short Notebooks on various Data Analysis in Python Concepts
